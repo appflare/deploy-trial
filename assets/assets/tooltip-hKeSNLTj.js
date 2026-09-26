@@ -1,0 +1,1 @@
+import{Er as e,c as t}from"./preload-helper-DSFXlU2u.js";var n=e(),r=`block max-w-80 whitespace-normal text-pretty`;function i(e){return(0,n.jsx)(`span`,{className:r,children:e})}function a({content:e,...r}){return(0,n.jsx)(t,{...r,content:i(e)})}export{i as n,a as t};

@@ -1,0 +1,1 @@
+import{Sr as e}from"./preload-helper-DSFXlU2u.js";import{Zt as t}from"./index-BRsewBKo.js";function n(){let n=e(),r=t();return async(e,t)=>{r.add({title:t,description:`Its log shows each step as it runs.`,variant:`info`}),await n.navigate({to:`/jobs/$jobId`,params:{jobId:e}})}}export{n as t};

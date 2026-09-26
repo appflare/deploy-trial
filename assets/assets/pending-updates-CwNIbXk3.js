@@ -1,0 +1,1 @@
+import"./display-name-D4QJmjW_.js";function e(e){return`${e} update${e===1?``:`s`} available`}function t(t,n){return t===`/`?{count:n.apps.length,label:e(n.apps.length)}:{count:0,label:``}}var n=`/settings/appflare-updates`;export{e as n,t as r,n as t};
